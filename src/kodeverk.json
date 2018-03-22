@@ -118,27 +118,27 @@
     },
     {
       "kode": "AT",
-      "term": "Østerrike"
+      "term": "Ã˜sterrike"
     }
   ],
   "sakstyper": [
     {
       "kode": "BOSTED_MED",
-      "term": "EU/EØS"
+      "term": "EU/EÃ˜S"
     },
     {
       "kode": "MIDL_LOVVALG_MED",
       "term": "Trygdeavtale"
     },
     {
-      "kode": "MIDL_FRANCOIS",
+      "kode": "MIDL_JONAS",
       "term": "Folketrygd"
     }
   ],
   "behandlingstyper": [
     {
       "kode": "JFR_MED",
-      "term": "Søknad"
+      "term": "SÃ¸knad"
     },
     {
       "kode": "UNNTAK_MED",
@@ -158,7 +158,7 @@
     },
     {
       "kode": "BEH_PASTAND",
-      "term": "Påstand fra utenlandsk myndighet"
+      "term": "PÃ¥stand fra utenlandsk myndighet"
     }
   ]
 }
