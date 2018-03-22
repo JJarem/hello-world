@@ -1,4 +1,3 @@
-kodeverk.json
 {
   "landkoder": [
     {
@@ -119,13 +118,13 @@ kodeverk.json
     },
     {
       "kode": "AT",
-      "term": "Ã˜sterrike"
+      "term": "Østerrike"
     }
   ],
   "sakstyper": [
     {
       "kode": "BOSTED_MED",
-      "term": "EU/EÃ˜S"
+      "term": "EU/EØS"
     },
     {
       "kode": "MIDL_LOVVALG_MED",
@@ -139,7 +138,7 @@ kodeverk.json
   "behandlingstyper": [
     {
       "kode": "JFR_MED",
-      "term": "SÃ¸knad"
+      "term": "Søknad"
     },
     {
       "kode": "UNNTAK_MED",
@@ -159,7 +158,7 @@ kodeverk.json
     },
     {
       "kode": "BEH_PASTAND",
-      "term": "PÃ¥stand fra utenlandsk myndighet"
+      "term": "Påstand fra utenlandsk myndighet"
     }
   ]
 }
